@@ -1,11 +1,13 @@
 # Self Intro
 
 ## Student Info 
+
 | Student Name  | Student ID | 
 |---------------|------------| 
 | Kok Tsz Ho    | 22004159G  |
 
 ## Education Background
+
 | Year          | School                                                                    |
 |---------------|---------------------------------------------------------------------------|
 | 2022-present  | MSc INFORMATION TECHNOLOGY Hong Kong Polytechnic University               |
@@ -13,6 +15,7 @@
 | 2010-2014     | Higher Diploma with Distinction in Systems Development and Administration |
 
 ## Work Experience [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsz-ho-zelca-kok-7441392a1)
+
 | Year          | Company                                                  |
 |---------------|----------------------------------------------------------|
 | 2019-present  | Software Engineer in Red Soldier Limited                 |
