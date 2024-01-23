@@ -8,15 +8,16 @@
 
 ## Education Background
 
-| Years         | School                                                                    |
-|---------------|---------------------------------------------------------------------------|
-| 2022-present  | MSc INFORMATION TECHNOLOGY Hong Kong Polytechnic University               |
-| 2015-2019     | BSc (HONS) INFORMATION TECHNOLOGY Hong Kong Polytechnic University        |
-| 2010-2014     | Higher Diploma with Distinction in Systems Development and Administration |
+| Years         | School                                                                    |                      |
+|---------------|---------------------------------------------------------------------------| -------------------- |
+| 2022-present  | MSc INFORMATION TECHNOLOGY Hong Kong Polytechnic University               | ![image](https://github.com/polyulabs/starterv2-zelcakok-22004159G/assets/125777973/70001794-6615-4851-8cff-833d4bb78f11)  |
+| 2015-2019     | BSc (HONS) INFORMATION TECHNOLOGY Hong Kong Polytechnic University        | ![image](https://github.com/polyulabs/starterv2-zelcakok-22004159G/assets/125777973/70001794-6615-4851-8cff-833d4bb78f11)  |
+| 2010-2014     | Higher Diploma with Distinction in Systems Development and Administration | ![image](https://github.com/polyulabs/starterv2-zelcakok-22004159G/assets/125777973/15849357-eecf-4e0d-9ab4-62197433dd15)  |
+
 
 ## Work Experience
 
-| Years         | School                                                   | Company                      |   
+| Years         | Company                                                  |                              |   
 |---------------|----------------------------------------------------------| ---------------------------- |
 | 2019-present  | Software Engineer in Red Soldier Limited                 | ![image](https://github.com/polyulabs/starterv2-zelcakok-22004159G/assets/125777973/acf5cb12-0de7-4af1-95c6-0eba5a9d6abe) |
 | 2017-2018     | Web Developer Part-time in Consumer Council              | ![image](https://github.com/polyulabs/starterv2-zelcakok-22004159G/assets/125777973/31290518-3b4a-4b49-9e26-274ed1835ce3) |
