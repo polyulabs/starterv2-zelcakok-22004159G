@@ -1,8 +1,8 @@
 # Self Intro
 
 ## Student Info
-| Student Name  | Student ID | Profile |
-|---------------|------------| ------- |
+| Student Name  | Student ID | Profile                                                                                                                                                           |
+|---------------|------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Kok Tsz Ho    | 22004159G  | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsz-ho-zelca-kok-7441392a1) |
 
 ## Education Background
